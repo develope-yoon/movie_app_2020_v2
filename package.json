@@ -26,6 +26,10 @@
       "react-app/jest"
     ]
   },
+  "devDependencies": {
+    "css-loader": "^5.0.1",
+    "style-loader": "^2.0.0"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -38,9 +42,6 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "css-loader": "^5.0.1",
-    "style-loader": "^2.0.0"
-  },
   "hompage": "http://develope-yoon.github.io/movie_app_2020_v2"
 }
+  
